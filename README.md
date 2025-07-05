@@ -25,7 +25,7 @@ This is a basic **E-Commerce website** built using **HTML, CSS, and JavaScript**
 - Live search filtering functionality
 
 ## 📸 Screenshots
-(Add screenshots of Home page, Products page, Cart page, and Search bar here)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9fe85ce4-2f05-4ec3-ad8f-9082a0307981" />
 
 ## 🚀 How to Run
 1. Clone this repository
